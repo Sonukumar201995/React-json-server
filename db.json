@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "sonu",
+      "age": 30,
+      "email": "krsonu025@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "monu",
+      "age": 30,
+      "email": "krmonu025@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "arun",
+      "age": 30,
+      "email": "krarun025@gmail.com"
+    }
+  ]
+}
